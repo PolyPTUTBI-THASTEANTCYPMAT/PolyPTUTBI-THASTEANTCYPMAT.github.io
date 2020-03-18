@@ -12,129 +12,48 @@
     
     
     <item>
-      <title>Est-ce le nombre de personnes atteintent par le SIDA influe sur les dons d’organismes ?</title>
-      <link>/analyses/dons_organismes/</link>
+      <title>Démographie</title>
+      <link>/analyses/demographie/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/analyses/dons_organismes/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
+      <guid>/analyses/demographie/</guid>
+      <description>Population infectée par le SIDA en fonction de l&#39;âge. Est-ce que l’évolution de la population influe sur l’évolution du SIDA ? Quelles tranches d’âge sont les plus impactées par la mortalité liée au SIDA ?</description>
     </item>
     
     <item>
-      <title>Est-ce que l&#39;accès aux soins influence l&#39;évolution du SIDA ?</title>
-      <link>/analyses/access_soin/</link>
+      <title>Développement</title>
+      <link>/analyses/developpement/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/analyses/access_soin/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
+      <guid>/analyses/developpement/</guid>
+      <description>Est-ce que l&#39;accès aux soins influence l’évolution du SIDA ? Est-ce que les pays ayant une compréhension correcte du SIDA ont un taux plus faible que les autres pays ?</description>
     </item>
     
     <item>
-      <title>Est-ce que la consommation de drogues influence l&#39;évolution du SIDA ?</title>
-      <link>/analyses/conso_drogue/</link>
+      <title>Divers</title>
+      <link>/analyses/divers/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/analyses/conso_drogue/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
+      <guid>/analyses/divers/</guid>
+      <description>Est-ce que la consommation de drogues influence l’évolution du SIDA ? Les travailleurs du sexe sont-ils beaucoup atteint par le VIH ? Le taux de personnel présent dans les pays affecte-t-il la transmission du VIH ?</description>
     </item>
     
     <item>
-      <title>Est-ce que le nombre d’enfants par foyer influe sur l’évolution du SIDA ?</title>
-      <link>/analyses/enfants_foyer/</link>
+      <title>Economie</title>
+      <link>/analyses/economie/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/analyses/enfants_foyer/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
+      <guid>/analyses/economie/</guid>
+      <description>Evolution du SIDA en fonction du PIB. Est-ce le nombre de personnes atteintent par le SIDA influe sur les dons d’organismes ? Est-ce que le taux de pauvreté influe sur le taux d’orphelins ayant le SIDA ?</description>
     </item>
     
     <item>
-      <title>Est-ce que le taux de pauvreté influe sur le taux d’orphelins ayant le SIDA ?</title>
-      <link>/analyses/tx_pauvrete_tx_orphelin/</link>
+      <title>Géographie</title>
+      <link>/analyses/geographie/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>/analyses/tx_pauvrete_tx_orphelin/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Est-ce que les pays ayant une compréhension correcte du SIDA ont un taux plus faible que les autres pays ?</title>
-      <link>/analyses/comprehension_sida/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/comprehension_sida/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Est-ce que l’évolution de la population influe sur l’évolution du SIDA ?</title>
-      <link>/analyses/evol_population/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/evol_population/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Evolution du SIDA en fonction du PIB</title>
-      <link>/analyses/sida_pib/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/sida_pib/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Le taux de personnel présent dans les pays affecte-t-il la transmission du VIH ?</title>
-      <link>/analyses/tx_personnel/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/tx_personnel/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Les travailleurs du sexe sont-ils beaucoup atteint par le VIH ?</title>
-      <link>/analyses/travailleurs_sexe/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/travailleurs_sexe/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Quel est le pourcentage d’orphelins atteint par le SIDA ?</title>
-      <link>/analyses/orphelin_sida/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/orphelin_sida/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Quelles tranches d’âge sont les plus impactés par la mortalité liée au SIDA ?</title>
-      <link>/analyses/impact_mortalite_sida/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/impact_mortalite_sida/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>Quels sont les parties du monde les plus impactés par le SIDA ?</title>
-      <link>/analyses/parties_monde_impact/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/parties_monde_impact/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
-    </item>
-    
-    <item>
-      <title>SIDA en fonction des tranches d’âges</title>
-      <link>/analyses/sida_tranche_age/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>/analyses/sida_tranche_age/</guid>
-      <description>La pauvreté &amp; SIDA La pauvreté a t elle un lien avec la transmission du SIDA ?</description>
+      <guid>/analyses/geographie/</guid>
+      <description>Quels sont les parties du monde les plus impactés par le SIDA ? </description>
     </item>
     
   </channel>
